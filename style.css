@@ -217,6 +217,7 @@ header
 .header-nav {
     display: flex;
     justify-content: space-between;
+    list-style: none;
 }
 
 .header-nav-item {
